@@ -1,6 +1,5 @@
-
-
-🚀#**Python Projects & Assignments**
+#
+🚀**Python Projects & Assignments**
 
 🌟 #**About This Repository**
 
