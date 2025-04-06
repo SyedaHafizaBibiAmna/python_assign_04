@@ -1,11 +1,10 @@
-#
 🚀**Python Projects & Assignments**
-
-🌟 #**About This Repository**
+##
+🌟 **About This Repository**
 
 Welcome to my Python Projects & Assignments repository! 
 🎯 This collection contains a variety of Python projects, ranging from beginner-friendly programs to advanced applications. Whether you're just starting or looking to sharpen your skills, these projects offer practical hands-on experience in Python development.
-
+##
 **📌 Featured Projects**
 
 🔰 **Beginner Python Projects**
@@ -20,7 +19,7 @@ Welcome to my Python Projects & Assignments repository!
 🌐 Web & UI-Based Projects
 🏋️ BMI Calculator (Streamlit) – A web app to calculate Body Mass Index (BMI).
 🌍 Python Website (Streamlit) – Create a basic interactive website in just 15 minutes.
-
+##
 **🏆 Python Assignments**
 
 This repository also includes assignments to reinforce fundamental Python concepts.
