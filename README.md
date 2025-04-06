@@ -76,7 +76,7 @@ streamlit run project_name.py
 
 🔹 GitHub: [Github Profile](https://github.com/SyedaHafizaBibiAmna)
 
-🔹 LinkedIn: [LinkedIn Profile] (www.linkedin.com/in/syeda-hafiza-bibi-amna-461a2a280)
+🔹 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/syeda-hafiza-bibi-amna-461a2a280)
 
 🔹 Twitter/X: [Twitter Profile](https://x.com/BibiAmna1121)
 
