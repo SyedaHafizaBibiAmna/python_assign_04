@@ -1,15 +1,15 @@
-** python_assign_04**
 
-**🚀 Python Projects & Assignments
 
-🌟 About This Repository**
+🚀#**Python Projects & Assignments**
+
+🌟 #**About This Repository**
 
 Welcome to my Python Projects & Assignments repository! 
 🎯 This collection contains a variety of Python projects, ranging from beginner-friendly programs to advanced applications. Whether you're just starting or looking to sharpen your skills, these projects offer practical hands-on experience in Python development.
 
-**📌 Featured Projects
+**📌 Featured Projects**
 
-🔰 Beginner Python Projects**
+🔰 **Beginner Python Projects**
 
 🎭 Mad Libs Game – A fun word-based storytelling game.
 🔢 Guess the Number (Computer) – Try to guess the number chosen by the computer.
