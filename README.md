@@ -46,25 +46,40 @@ The homework_projects directory covers essential Python topics such as:
 ##
 **⚡ How to Run the Projects?**
 
-Clone this repository: https://github.com/SyedaHafizaBibiAmna/python_assign_04.git
-git clone https://github.com/SakeenaMajeed/Assignment-4.git
+Clone this repository:
+
+git clone https://github.com/SyedaHafizaBibiAmna/python_assign_04.git)
+
 cd Python-Projects 
+
 (Recommended) Set up a virtual environment:
+
 python -m venv venv  
+
 source venv/bin/activate  # Windows: venv\Scripts\activate 
+
 Install required dependencies:
+
 pip install -r requirements.txt 
+
 Run any project:
+
 python project_name.py 
+
 For Streamlit projects, use:
+
 streamlit run project_name.py 
 ##
 **Let's connect and collaborate!**
 
 🚀 Feel free to reach out for discussions, collaborations, or just a friendly chat.
-🔹 GitHub: Github Profile
-🔹 LinkedIn: LinkedIn Profile 
-🔹 Twitter/X: Twitter Profile
+
+🔹 GitHub: [Github Profile](https://github.com/SyedaHafizaBibiAmna)
+
+🔹 LinkedIn: [LinkedIn Profile] (www.linkedin.com/in/syeda-hafiza-bibi-amna-461a2a280)
+
+🔹 Twitter/X: [Twitter Profile](https://x.com/BibiAmna1121)
+
 Looking forward to connecting with you! 😊🚀
 #
 🔥 Created by Syeda Hafiza Bibi Amna
