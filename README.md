@@ -1,3 +1,4 @@
+#
 🚀**Python Projects & Assignments**
 ##
 🌟 **About This Repository**
@@ -30,7 +31,7 @@ This repository also includes assignments to reinforce fundamental Python concep
 🚀 Liftoff Countdown – Simulates a rocket launch countdown.
 🎯 Guess My Number – The computer tries to guess your number.
 🎲 Random Numbers – A program for generating random values.
-
+##
 **🔍 Core Python Topics**
 
 The homework_projects directory covers essential Python topics such as:
@@ -42,7 +43,7 @@ The homework_projects directory covers essential Python topics such as:
 ✅ 05_loops_control_flow – Implementing loops & logic.
 ✅ 06_functions – Writing modular & reusable functions.
 ✅ 07_information_flow – Handling and processing data flow.
-
+##
 **⚡ How to Run the Projects?**
 
 Clone this repository: https://github.com/SyedaHafizaBibiAmna/python_assign_04.git
@@ -57,7 +58,7 @@ Run any project:
 python project_name.py 
 For Streamlit projects, use:
 streamlit run project_name.py 
-
+##
 **Let's connect and collaborate!**
 
 🚀 Feel free to reach out for discussions, collaborations, or just a friendly chat.
@@ -65,6 +66,6 @@ streamlit run project_name.py
 🔹 LinkedIn: LinkedIn Profile 
 🔹 Twitter/X: Twitter Profile
 Looking forward to connecting with you! 😊🚀
-
+#
 🔥 Created by Syeda Hafiza Bibi Amna
 
